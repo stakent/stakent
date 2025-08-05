@@ -1,76 +1,80 @@
 # Hi, I'm Dariusz Walat 👋
 
-**Senior Software Engineer | Building Advanced AI Systems | Production-Ready Architecture**
+**Senior Software Engineer | AI Architecture Explorer | 20+ Years Industrial Systems | Remote-First**
 
-🔬 Currently building **[Sejm-Whiz](https://github.com/stakent/sejm-whiz)** - an advanced AI system for legal document analysis and change prediction using Polish parliamentary data
+🔬 Exploring AI architecture patterns through personal research projects and open-source contributions
 
-🏭 **20+ years** of mission-critical systems engineering experience, from industrial control systems to modern AI applications
+🏭 **20+ years** of mission-critical systems engineering, bringing industrial reliability mindset to modern software
 
-🌍 **Remote-first professional** with proven track record of autonomous delivery and self-directed problem-solving
+🌍 **Remote-first professional** with proven autonomous delivery and self-directed problem-solving capabilities
 
-## 🚀 What I'm Working On
+## 🚀 Personal Research & Learning
 
-### **Sejm-Whiz** *(Work in Progress)*
-Advanced AI system for legal document analysis featuring:
-- **Component-based architecture** using Polylith design patterns
-- **Production-ready deployment** with Docker and microservices
-- **Real-time change detection** for Polish legal documents
-- **Complex domain modeling** for parliamentary data analysis
+### **AI Architecture Exploration**
+Currently investigating component-based AI systems through personal projects:
+- **Component isolation patterns** using Polylith architecture principles
+- **Polish NLP challenges** with open-source language models
+- **Cost-efficient scaling** strategies for specialized AI workloads
+- **Production design patterns** applied to complex domain problems
 
-*This project demonstrates production-ready architecture capabilities and modern AI systems design.*
+*Personal projects are how I explore emerging technologies and contribute to open-source community.*
 
-## 🎯 Core Expertise
+## 🎯 Technical Focus Areas
 
 **Systems Architecture**
 - Component-based design and microservices
 - Event-driven architecture patterns
-- Production deployment and scaling
-- Real-time data processing systems
+- Distributed systems and scaling strategies
+- Production reliability engineering
 
-**AI & Modern Development**
-- Machine learning integration in production systems
-- Python ecosystem (Django, FastAPI, Celery)
+**Modern Development**
+- Python ecosystem (Django, FastAPI, async patterns)
 - Go for high-performance services
-- PostgreSQL and Redis for data architecture
+- PostgreSQL, Redis, and modern data architectures
+- Container orchestration and cloud deployment
 
-**Industrial Reliability**
-- 20+ years building systems that cannot fail
-- PLC integration and distributed monitoring
-- Mission-critical production environments
-- Autonomous problem-solving mindset
+**Industrial Foundation**
+- Two decades building systems that cannot fail
+- Real-time monitoring and control systems
+- Hardware-software integration expertise
+- Problem-solving under production constraints
 
-## 💼 Professional Background
+## 💼 Professional Journey
 
 - **Current**: Senior Software Engineer at R Systems Computaris Poland
-- **Focus**: Building scalable AI systems with production-ready architecture
-- **Experience**: Industrial control systems → Modern software engineering → AI systems
-- **Approach**: Self-directed delivery with emphasis on reliability and maintainability
+- **Evolution**: Industrial control systems → Enterprise software → AI/ML exploration
+- **Approach**: Self-directed delivery with reliability-first mindset
+- **Philosophy**: Continuous learning through hands-on experimentation
 
 ## 🛠️ Technology Stack
 
 **Languages**: Python, Go, SQL  
 **Frameworks**: Django, FastAPI, DRF  
-**Infrastructure**: Docker, PostgreSQL, Redis, AWS  
-**Architecture**: Microservices, Event-driven, Component-based design  
-**AI/ML**: Machine learning integration, data processing pipelines  
+**Infrastructure**: Docker, Kubernetes, PostgreSQL, Redis  
+**Cloud**: AWS, deployment automation, monitoring  
+**Interests**: AI/ML architectures, NLP, component-based design  
 
-## 🌱 Current Learning
+## 🌱 Current Explorations
 
-- Advanced component architecture patterns (Polylith)
-- AI system production deployment strategies
-- Modern observability and monitoring for AI systems
+- Component architecture patterns for AI systems
+- Natural language processing for morphologically complex languages
+- Production deployment strategies for ML workloads
+- Open-source contributions and knowledge sharing
 
-## 📈 Professional Philosophy
+## 📚 Learning Philosophy
 
-*"I solve problems before they materialize in production and start to cost real money."*
+*"The best way to understand technology is to build with it during personal time."*
 
-Building on 20+ years of industrial systems experience, I bring a reliability-first mindset to modern AI and software development. My background in mission-critical environments translates to robust, maintainable systems that deliver business value.
+I believe in continuous learning through practical experimentation. My GitHub repositories reflect various personal explorations in AI, system architecture, and modern development practices—all pursued outside work hours for skill development and community contribution.
 
 ## 🤝 Let's Connect
 
 - 📧 **Email**: dariusz@walat.eu
-- 💼 **LinkedIn**: https://www.linkedin.com/in/dariusz-walat/
+- 💼 **LinkedIn**: [linkedin.com/in/dariusz-walat](https://www.linkedin.com/in/dariusz-walat/)
+- 🌐 **Interests**: AI architectures, distributed systems, production engineering
 
 ---
 
-*Open to remote opportunities in AI systems engineering and software architecture roles.*
+*Open to discussing technical challenges, architecture patterns, and remote engineering opportunities.*
+
+**Note**: All projects shown are personal explorations developed during my free time for continuous learning and skill development.
